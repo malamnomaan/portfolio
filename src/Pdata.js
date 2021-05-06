@@ -43,6 +43,14 @@ const Project = [
         desc : "Portfolio using Bootstrap and jQuery",
     
     },
+    {
+        id : 7,
+        imgsrc : "https://malamnomaan.github.io/myPortfolio/assets/projects/Ansari-graphics.png",
+        imgalt : "Ansari Graphics",
+        title : "Ansari Graphics 2.0",
+        desc : "Portfolio using Bootstrap and jQuery",
+    
+    },
 ];
 
 export default Project;
